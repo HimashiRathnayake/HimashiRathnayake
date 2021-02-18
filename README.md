@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 My Medium Articles 📝
 1. [What is WSO2 Identity Server?](https://himashirathnayake.medium.com/what-is-wso2-identity-server-63edf7c75d23)
-2. [Adaptive Authentication](https://himashirathnayake.medium.com/adaptive-authentication-33fb7b7efef8)
+2. [Adaptive Authentication - Flexible and secure way of authentication](https://himashirathnayake.medium.com/adaptive-authentication-33fb7b7efef8)
 3. [Authentication Flow Composer-1 | Introduction](https://himashirathnayake.medium.com/adaptive-authentication-flow-composer-1-introduction-3fcab698ca3)
 4. [Authentication Flow Composer-2 | Implementation](https://himashirathnayake.medium.com/authentication-flow-composer-2-implementation-fe50a29403fe)
