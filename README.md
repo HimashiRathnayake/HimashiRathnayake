@@ -24,3 +24,4 @@ My Medium Articles 📝
 2. [Adaptive Authentication - Flexible and secure way of authentication](https://himashirathnayake.medium.com/adaptive-authentication-33fb7b7efef8)
 3. [Authentication Flow Composer-1 | Introduction](https://himashirathnayake.medium.com/adaptive-authentication-flow-composer-1-introduction-3fcab698ca3)
 4. [Authentication Flow Composer-2 | Implementation](https://himashirathnayake.medium.com/authentication-flow-composer-2-implementation-fe50a29403fe)
+5. [Authentication Flow Composer-3 | Getting Started](https://himashirathnayake.medium.com/authentication-flow-composer-3-getting-started-33d731ba8c8b)
