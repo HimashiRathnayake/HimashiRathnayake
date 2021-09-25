@@ -25,3 +25,9 @@ My Medium Articles 📝
 3. [Authentication Flow Composer-1 | Introduction](https://himashirathnayake.medium.com/adaptive-authentication-flow-composer-1-introduction-3fcab698ca3)
 4. [Authentication Flow Composer-2 | Implementation](https://himashirathnayake.medium.com/authentication-flow-composer-2-implementation-fe50a29403fe)
 5. [Authentication Flow Composer-3 | Getting Started](https://himashirathnayake.medium.com/authentication-flow-composer-3-getting-started-33d731ba8c8b)
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/4" alt="Recent Article 4">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/3" alt="Recent Article 3">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/0" alt="Recent Article 0"> 
