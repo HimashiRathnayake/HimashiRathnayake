@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **HimashiRathnayake/HimashiRathnayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +32,8 @@ My Medium Articles 📝
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/2" alt="Recent Article 2"> -->
+
+### Skills
+![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
+![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=#007396)
+![java](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#007396)
