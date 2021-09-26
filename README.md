@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently an undergraduate of Computer Science and Engineering Department, University of Moratuwa
 - 🔭 I'm a former Software Engineering Intern at WSO2
-- 📫 How to reach me: [Linkedin](https://lk.linkedin.com/public-profile/in/himashirathnayake)
+- 📫 How to reach me: [Linkedin](https://lk.linkedin.com/public-profile/in/himashirathnayake) | [Medium](https://himashirathnayake.medium.com/)
 
 My Medium Articles 📝
 1. [What is WSO2 Identity Server?](https://himashirathnayake.medium.com/what-is-wso2-identity-server-63edf7c75d23)
