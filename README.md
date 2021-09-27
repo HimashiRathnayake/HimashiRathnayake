@@ -48,3 +48,5 @@ Here are some ideas to get you started:
 ![heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=Heroku&logoColor=#430098)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himashirathnayake&layout=compact&theme=dracula)](https://github.com/himashirathnayake/github-readme-stats)
+
+![Himashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=himashirathnayake&show_icons=true&theme=dracula)
