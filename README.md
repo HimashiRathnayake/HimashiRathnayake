@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himashirathnayake&layout=compact&theme=dracula)](https://github.com/himashirathnayake/github-readme-stats)
 
-![Himashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=himashirathnayake&show_icons=true&theme=dracula)
+![Himashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=himashirathnayake&show_icons=true&theme=dracula&include_all_commits=true)
