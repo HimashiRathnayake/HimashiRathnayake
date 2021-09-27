@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I'm a former Software Engineering Intern at WSO2
 - 📫 How to reach me: [Linkedin](https://lk.linkedin.com/public-profile/in/himashirathnayake) | [Medium](https://himashirathnayake.medium.com/)
 
-### My Medium Articles 📝
+## My Medium Articles 📝
 1. [What is WSO2 Identity Server?](https://himashirathnayake.medium.com/what-is-wso2-identity-server-63edf7c75d23)
 2. [Adaptive Authentication - Flexible and secure way of authentication](https://himashirathnayake.medium.com/adaptive-authentication-33fb7b7efef8)
 3. [Authentication Flow Composer-1 | Introduction](https://himashirathnayake.medium.com/adaptive-authentication-flow-composer-1-introduction-3fcab698ca3)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/2" alt="Recent Article 2"> -->
 
-### Skills
+## Skills
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
 ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=#007396)
 ![c](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=#A8B9CC)
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=#47A248)
 ![heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=Heroku&logoColor=#430098)
 
-### Github Stats
+## Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himashirathnayake&layout=compact&theme=dracula&langs_count=10)](https://github.com/himashirathnayake/github-readme-stats)
 
