@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@himashirathnayake/2" alt="Recent Article 2"> -->
 
-## Skills
+## Skills 
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
 ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=#007396)
 ![c](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=#A8B9CC)
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=#47A248)
 ![heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=Heroku&logoColor=#430098)
 
-## Github Stats 🏆
+## My Github Stats 🏆
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himashirathnayake&layout=compact&theme=dracula&langs_count=10)](https://github.com/himashirathnayake/github-readme-stats)
 
