@@ -36,4 +36,11 @@ My Medium Articles 📝
 ### Skills
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
 ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=#007396)
-![java](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#007396)
+![c](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=#A8B9CC)
+![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#007396)
+![typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)
+![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB)
+![node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933)
+![php](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=#777BB4)
+![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=MySQL&logoColor=#4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=#47A248)
