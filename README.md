@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=#47A248)
 ![heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=Heroku&logoColor=#430098)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himashirathnayake&layout=compact)](https://github.com/himashirathnayake/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himashirathnayake&layout=compact&theme=dracula)](https://github.com/himashirathnayake/github-readme-stats)
