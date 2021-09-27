@@ -40,6 +40,7 @@ My Medium Articles 📝
 ![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#007396)
 ![typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)
 ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB)
+![redux](https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=Redux&logoColor=#764ABC)
 ![node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933)
 ![php](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=#777BB4)
 ![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=MySQL&logoColor=#4479A1)
