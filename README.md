@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 🔭 I'm a former Software Engineering Intern at WSO2
 - 📫 How to reach me: [Linkedin](https://lk.linkedin.com/public-profile/in/himashirathnayake) | [Medium](https://himashirathnayake.medium.com/)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### My Medium Articles 📝
 1. [What is WSO2 Identity Server?](https://himashirathnayake.medium.com/what-is-wso2-identity-server-63edf7c75d23)
 2. [Adaptive Authentication - Flexible and secure way of authentication](https://himashirathnayake.medium.com/adaptive-authentication-33fb7b7efef8)
