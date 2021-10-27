@@ -49,5 +49,4 @@ Here are some ideas to get you started:
 
 ## My Github Stats 🏆
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himashirathnayake&layout=compact&theme=dracula&langs_count=10)](https://github.com/himashirathnayake/github-readme-stats)
-![Himashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=himashirathnayake&show_icons=true&theme=dracula&include_all_commits=true&line_height=28&custom_title=GitHub-Stats&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himashirathnayake&layout=compact&theme=dracula&langs_count=10)](https://github.com/himashirathnayake/github-readme-stats) ![Himashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=himashirathnayake&show_icons=true&theme=dracula&include_all_commits=true&line_height=28&custom_title=GitHub-Stats&count_private=true)
