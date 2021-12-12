@@ -1,4 +1,4 @@
-<h3 align="center">Himashi Rathnayake</h3>
+<h3 align="center">I'm Himashi Rathnayake</h3>
 <h4 align="center">A creative individual interested in both Research & Development</h4>
 
 <br>
