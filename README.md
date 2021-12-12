@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩 I'm Himashi Rathnayake, A creative individual interested in both Research & Development.
+- 👩 I'm Himashi Rathnayake, A creative individual interested in both Research & Development. 
 - 🌱 I’m currently an undergraduate of Computer Science and Engineering Department, University of Moratuwa.
 - 🔭 I'm a former Software Engineering Intern at WSO2.
 - 📫 How to reach me: [Linkedin](https://lk.linkedin.com/public-profile/in/himashirathnayake) | [Medium](https://himashirathnayake.medium.com/).
