@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I'm a recent graduate of the Computer Science and Engineering Department, University of Moratuwa.
 - 🔭 I'm a former Software Engineering Intern at WSO2.
 - 📫 How to reach me: [Linkedin](https://lk.linkedin.com/public-profile/in/himashirathnayake) | [Medium](https://himashirathnayake.medium.com/).
+- [Google Scholar](https://scholar.google.com/citations?user=-G_IrIUAAAAJ&hl=en&oi=ao)
 
 ## My Publications 📝
 1. [Adapter-based fine-tuning of pre-trained multilingual language models for code-mixed and code-switched text classification](https://rdcu.be/cQSfa)
